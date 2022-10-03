@@ -25,6 +25,7 @@ uint8_t getMaxChar(void);
 
 int main (void){
 
+
 	miPrimeraFuncion();
 
 	while(1){
